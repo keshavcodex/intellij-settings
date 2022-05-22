@@ -1,0 +1,85 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="Adtui.ZoomToActualAction">
+    <keyboard-shortcut first-keystroke="ctrl 0" />
+  </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChangesView.ToggleCommitUi" />
+  <action id="CheckinProject" />
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <mouse-shortcut keystroke="control button142" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="ctrl 0" />
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="EditorUnSelectWord" />
+  <action id="Git.Commit.Stage" />
+  <action id="GuiDesigner.ShrinkSelection" />
+  <action id="KotlinShellExecute" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt f8" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="ShowContent" />
+  <action id="ShowSearchHistory" />
+  <action id="SmartSelect" />
+  <action id="SmartUnSelect" />
+  <action id="SplitChooser.Duplicate" />
+  <action id="Terminal.SmartCommandExecution.Debug" />
+  <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="UsageGrouping.DirectoryStructure" />
+  <action id="UsageView.ShowRecentFindUsages" />
+  <action id="ViewSource" />
+</keymap>

@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="premium" value="true" />
+    <option name="accentColor" value="ffd866" />
+    <option name="selectedTheme" value="MONOKAI" />
+    <option name="userId" value="-18ec9834:17bac5e165d:-8000" />
+    <option name="version" value="6.9.1" />
+  </component>
+</application>
